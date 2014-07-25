@@ -12,6 +12,6 @@ This tool will be freely available as opensource software to all the community t
 
 An hight level of the architecture is rapresented in the image below.
 
-https://github.com/escube/wsar/blob/master/images/progetti_wsra.png
+![here](https://github.com/escube/wsar/blob/master/images/progetti_wsra.png)
 
 
